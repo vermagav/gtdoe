@@ -1,4 +1,5 @@
-gtdoe
-=====
+CS 6763 Design of Environments
+==============================
 
-CS 6763 Design of Environments: Active Lifestyle for Older Adults
+Active Lifestyle for Older Adults
+
